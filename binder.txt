@@ -1,1 +1,1 @@
-https://hub.gke.mybinder.org/user/noahgriff99-320-final-project-453vko49/notebooks/Scrape%20Billboard.ipynb
+https://mybinder.org/v2/gh/noahgriff99/320-Final-Project/925075b4aec9bf4f2329bd60e6d5fd5fbc8c2bd3
